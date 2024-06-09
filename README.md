@@ -38,5 +38,7 @@ StoreResponsive es una tienda en línea diseñada para ofrecer una experiencia d
     npm start
    ```
 
+## Colaboración 
+
 
    
