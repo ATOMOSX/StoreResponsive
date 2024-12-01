@@ -33,7 +33,7 @@ StoreResponsive es una tienda en línea diseñada para ofrecer una experiencia d
 
 ## Uso
 
-1. Inicia el servidor de desarrollo
+1. Inicia el servidor de desarrollo desde terminal
    ```bash
     npm start
    ```
